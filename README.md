@@ -5,6 +5,7 @@
 - 📖 My research interest includes:
   - Unsupervised Learning
   - Multimodal Large Model
-### - ⭐️ &nbsp;Github Star
+<!-- ### - ⭐️ &nbsp;Github Star
 
 <img width="500px"  alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=HalvesChen&count_private=true&show_icons=true"/>
+-->
